@@ -1,1 +1,2 @@
 # instagram-cloning
+yarn install
